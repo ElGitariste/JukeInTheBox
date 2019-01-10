@@ -889,6 +889,7 @@
  }
 
  .column{
+     background-color : #E9DCCD;
      display: flex;
      flex-direction : column;
  }
